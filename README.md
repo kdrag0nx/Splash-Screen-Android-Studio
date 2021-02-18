@@ -1,4 +1,4 @@
-# Splash Screen Android Studio[]()
+# [Splash Screen Android Studio](https://youtu.be/CMSYrSwZZPg "SPLASH SCREEN ANDROID")
 
 Step 1 : Create A new Empty Activity named as `Splash Activity`.
 
